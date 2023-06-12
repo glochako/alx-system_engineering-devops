@@ -1,1 +1,1 @@
-Learning about Bash projects
+shell permissions
